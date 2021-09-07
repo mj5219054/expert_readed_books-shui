@@ -600,15 +600,7 @@
 <br/>
 <br/>
 
-<h3 >联系我们</h3> 
-
----
-
-**每天晚上8点免费技术分享直播，扫码即可加入【wx:cz1625358265】小姐姐给你发每天的直播链接，备注github文档** <br/>
-**直播内容：C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等等多个知识点技术分享**
-
-![image](https://www.0voice.com/uiwebsite/img/barcode/cz.jpg)
-
+# 允许随意发表意见,顺乎自然,保持原始生活的活力,尘世烟火终日如昨。
   
   
   
