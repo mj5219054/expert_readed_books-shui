@@ -21,6 +21,10 @@
     <a href="#软件工程">
       <img src="https://www.0voice.com/uiwebsite/icons/%E5%B7%A5%E7%A8%8B%E7%B1%BB.png" width="120px" height="100px">
       <p>软件工程</p>
+      <td align="center">
+    <a href="视角">
+     
+     <img srcQ浏览器截图="https://user-images.githubusercontent.com/79394963/133077222-123650fc-4354-41a1-8cda-270cd4cb629c.png.png" width="120px" height="100px">
     </a>
   </td>
   <td align="center">
