@@ -23,8 +23,8 @@
       <p>软件工程</p>
       <td align="center">
     <a href="视角">
-     
-     <img srcQ浏览器截图="https://user-images.githubusercontent.com/79394963/133077222-123650fc-4354-41a1-8cda-270cd4cb629c.png.png" width="120px" height="100px">
+     <img src="https://user-images.githubusercontent.com/79394963/133077222-123650fc-4354-41a1-8cda-270cd4cb629c.png" width="120px" height="100px">
+       <p>视角</p>
     </a>
   </td>
   <td align="center">
