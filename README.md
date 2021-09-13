@@ -602,7 +602,17 @@
 #### [麦田里的守望者](https://github.com/0voice/expert_readed_books/blob/master/%E5%B0%8F%E8%AF%B4%E7%B1%BB/%E9%BA%A6%E7%94%B0%E9%87%8C%E7%9A%84%E5%AE%88%E6%9C%9B%E8%80%85.mobi)
 
 <br/>
+  
+  
+## 视角
+#### [视角](https://github.com/mj5219054/expert_readed_books-shui/blob/master/%E8%A7%86%E8%A7%92/%E8%A7%86%E8%A7%92.mobi)
+#### [心理视角](https://github.com/mj5219054/expert_readed_books-shui/blob/master/%E8%A7%86%E8%A7%92/%E8%A7%86%E8%A7%92-%20L%E5%85%88%E7%94%9F.mobi)
+  
 <br/>
+
+  
+  
+  
 
 # 允许随意发表意见,顺乎自然,保持原始生活的活力,尘世烟火终日如昨。
   
