@@ -612,6 +612,8 @@
 #### [视角](https://github.com/mj5219054/expert_readed_books-shui/blob/master/%E8%A7%86%E8%A7%92/%E8%A7%86%E8%A7%92.mobi)
 #### [心理视角](https://github.com/mj5219054/expert_readed_books-shui/blob/master/%E8%A7%86%E8%A7%92/%E8%A7%86%E8%A7%92-%20L%E5%85%88%E7%94%9F.mobi)
   
+##  骇客先驱
+####  [骇客致辞](https://github.com/mj5219054/expert_readed_books-shui/edit/master/%E9%AA%87%E5%AE%A2%E6%8A%80%E6%9C%AF/1.txt) 
 <br/>
 
   
