@@ -77,7 +77,7 @@
   <td align="center">
     <a href="#小说类">
       <img src="https://www.0voice.com/uiwebsite/icons/%E5%B0%8F%E8%AF%B4%E7%B1%BB.png" width="120px" height="100px">
-      <p>小说类</p>
+      <骇客先驱p>小说类</p>
     </a>
   </td>
   <td align="center">
@@ -86,7 +86,11 @@
       <p>人物传</p>
     </a>
   </td>
-  
+   <td align="center">
+    <a href="#骇客先驱">
+      <img src="https://user-images.githubusercontent.com/79394963/140063730-ca1fdcde-c562-4acc-aba6-5a2dd5f5f107.png" width="120px" height="100px">
+      <p> 骇客先驱</p>
+    </a>
   </tr><tr>
   
 </table>
