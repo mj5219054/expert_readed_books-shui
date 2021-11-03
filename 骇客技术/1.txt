@@ -62,7 +62,196 @@ that when they parse the question “Aren't you going?” it may seem to be aski
 For similar reasons, English-speaking hackers almost never use double negatives, even if they live in a region where colloquial usage allows them. The thought of uttering something that logically ought to be an affirmative knowing it will be misparsed as a negative tends to disturb them.
 
 In a related vein, hackers sometimes make a game of answering questions containing logical connectives with a strictly literal rather than colloquial interpretation. A non-hacker who is indelicate enough to ask a question like “So, are you working on finding that bug now or leaving it until later?” is likely to get the perfectly correct answer “Yes!” (that is, “Yes, I'm doing it either now or later, and you didn't ask which!”).
+Richard Stallman 
+Dennis Ritchie and Ken Thompson 
+John Draper 
+Mark Abene 
+Robert Morris 
+Kevin Mitnick 
+Kevin Poulsen 
+Johan Helsingius 
+Vladimir Levin 
+Steve Wozniak shaokejian 
+Tsutomu Shimomura 
+Linus Torvalds 
+Eric Steven Raymond 
+Ian Murphy 
+John Perry Barlow 
 
+每一位黑客的圈内头衔（Handle）、主要成就（Claim to fame）、第一次接触计算机（First encountered a computer）、自己独特的工具（Unusual tools）、鲜为人知的事实（Little-known fact）、目前状况（Current status）等具体情况分别介绍如下（英文，如有爱好者有兴趣愿意全部翻译成中文，则不胜感谢）。随后还详细附录了黑客守则、黑客简介、黑客发展简史、著名黑客的老窝（个人网站）等中英文重要资料。 
+
+
+Richard Stallman 
+
+Handle: None (nothing to hide!) 
+
+Claim to fame: A hacker of the old school, Stallman walked in off the street and got a job at MIT’s Artificial Intelligence Lab in 1971. He was an undergraduate at Harvard at the time. Disturbed that software was viewed as private property, Stallman later founded the Free Software Foundation. 
+
+First encountered a computer: In 1969, at the IBM New York Scientific Center. He was 16 years old. 
+
+Unusual tools: In the 1980s Stallman left MIT’s payroll but continued to work from an office at MIT. Here he created a new operating system called GNU — short for GNU’s Not Unix. 
+
+Little-known fact: Recipient of a $240,000 MacArthur Foundation genius grant. 
+
+Current status: Richard Stallman has just published his latest book, Free Software, Free Society: Selected Essays of Richard M. Stallman, available through GNU Press. 
+
+ 
+
+Dennis Ritchie and Ken Thompson 
+
+Handles: dmr and Ken 
+
+Claim to fame: The driving creative force behind Bell Labs’ legendary computer science operating group, Ritchie and Thompson created UNIX in 1969. An elegant, open operating system for minicomputers, UNIX helped users with general computing, word processing and networking, and soon became a standard language. 
+
+Unusual tools: Plan 9, the next-generation operating system created as the natural descendant of UNIX by Thompson and Bell Labs colleague Rob Pike. 
+
+Little-known fact: Although Ritchie is the author of the popular C programming language, his favorite language is Alef. Thompson, an amateur pilot, once traveled to Moscow to fly a MiG-29. 
+
+Current status: Dennis Ritchie is currently the head of Lucent Technology’s System Software Research Department, while Ken Thompson has retired from both Bell Labs and the hacker spotlight. 
+
+
+John Draper 
+
+Handle: Cap’n Crunch 
+
+Claim to fame: Figured out how to make free phone calls using a plastic prize whistle he found in a cereal box. Cap’n Crunch introduced generations of hackers to the glorious concept of phone "phreaking." 
+
+First encountered a computer: As a teenager, trying to convince pay phones to return his coin and put through his calls. 
+
+Unusual tools: The toy whistle from boxes of Cap’n Crunch cereal. The whistle reproduced the 2600 hertz tone necessary to authorize a call. Used in conjunction with a bluebox, it allowed users to make free phone calls. (Oscar Meyer weiner whistles also briefly gained a following among phone phreakers.) 
+
+Little-known fact: Honorably discharged from the U.S. Air Force in 1968 after a stint in Vietnam. 
+
+Current status: John Draper has set up his own security firm. He also recently developed Crunchbox, a firewall system that halts the spread of computer viruses. 
+
+Mark Abene 
+
+Handle: Phiber Optik 
+
+Claim to fame: As a founding member of the Masters of Deception, Phiber Optik inspired thousands of teenagers around the country to "study" the internal workings of our nation’s phone system. A federal judge attempted to "send a message" to other hackers by sentencing Phiber to a year in federal prison, but the message got garbled: Hundreds of well-wishers attended a welcome-home party in Abene’s honor at an elite Manhattan Club. Soon after, New York magazine dubbed him one of the city’s 100 smartest people. 
+
+First encountered a computer: Hanging out in the electronics department of the A&S department store in Queens, N.Y., where his mother worked. There he was introduced to the Apple II, the Timex Sinclair and the Commodore 64. The first computer he owned was a Radio Shack TRS-80 (Trash-80). 
+
+Unusual tools: Experimented by dialing patterns on a phone receiver. Abene used the receiver so frequently that it had to be bandaged with black electrical tape to keep its guts from falling out. 
+
+Little-known fact: Phiber Optik’s favorite food: mashed potatoes from Kentucky Fried Chicken. Not real mashed potatoes. Real ones have lumps in them. 
+
+Current status: After doing time in a Pennsylvania prison, Mark Abene worked on penetration tests for an accounting firm, and formed the (now defunct) security company, Crossbar Security 
+
+
+Robert Morris 
+
+Handle: rtm 
+
+Claim to fame: The son of the chief scientist at the National Computer Security Center — part of the National Security Agency (NSA) — this Cornell University graduate student introduced the word "hacker" into the vernacular when he accidentally unleashed an Internet worm in 1988. Thousands of computers were infected and subsequently crashed. 
+
+First encountered a computer: At home. Morris’ father once brought home one of the original Enigma cryptographic machines from the NSA. It became a household conversation piece. 
+
+Unusual tools: As a teenager Morris had an account on the Bell Labs’ computer network, where early hacking forays gave him super-user status. 
+
+Little-known fact: When the Secret Service raided the home of Legion of Doom member Erik Bloodaxe in 1990, they found a copy of the source code for Morris’ Internet worm. 
+
+Current status: Robert Morris is now an assistant professor at MIT, even though he released his worm virus from there in 1988 (thus disguising the fact that it was actually written at Cornell University). 
+
+
+Kevin Mitnick 
+
+Handle: Condor 
+
+Claim to fame: The first hacker to have his face immortalized on an FBI "Most Wanted" poster. His status as a repeat offender — a teenage hacker who couldn’t grow up — earned Mitnick the nickname "The Lost Boy of Cyberspace." 
+
+First encountered a computer: As a teenager. Mitnick couldn’t afford a computer, so he hung out in a Radio Shack store. He used the store’s demo models and modem to dial other computers. 
+
+Unusual tools: During the three years he was on the lam, Mitnick used Internet Relay Chat (IRC) as a message drop and to communicate with his friends. 
+
+Little-known fact: Sentenced to a year in a residential treatment center, Mitnick enrolled in a 12-step program to rid himself of what a judge agreed was his "computer addiction." 
+
+Current status: Kevin Mitnick played himself in 2001’s hacker documentary Freedom Downtime. He also appeared on ABC’s Alias as a CIA computer whiz; to play the role, Mitnick was only allowed to use prop computers. 
+
+
+Kevin Poulsen 
+
+Handle: Dark Dante 
+
+Claim to fame: In 1990 Poulsen took over all telephone lines going into Los Angeles area radio station KIIS-FM, assuring that he would be the 102nd caller. Poulsen won a Porsche 944 S2 for his efforts. 
+
+First encountered a computer: When his parents bought him a TRS-80 (better known as a "Trash-80"). 
+
+Unusual tools: A set of locksmith tools he used to break into phone company trailers. He was caught after a friend commemorated the break-ins with snapshots of Poulsen picking locks. 
+
+Little-known fact: Admitted breaking into computers to get the names of undercover businesses operated by the FBI. 
+
+Current status: Thanks to an episode of Unsolved Mysteries, Kevin Poulsen was arrested and spent three years in prison. He was then forbidden to touch a computer for another three years. Poulsen is now a self-proclaimed "reformed and penitent" journalist, and serves as editorial director for Security Focus. 
+
+
+Johan Helsingius 
+
+Handle: Julf 
+
+Claim to fame: Operated the world’s most popular anonymous remailer, called penet.fi, until he closed up shop in September 1996. Helsingius’ troubles started when he was raided in 1995 by the Finnish police after the Church of Scientology complained that a penet.fi customer was posting the "church’s" secrets on the Net. Helsingius mothballed the remailer after a Finnish court ruled he must reveal the customer’s real e-mail address. 
+
+Unusual tools: Ran the world’s busiest remailer on a run-of-the mill 486 with a 200-megabyte harddrive. 
+
+Little-known fact: Never felt the need himself to post anonymously. 
+
+Current status: Johan Helsingius lends his cyber knowledge to communication companies worldwide. 
+
+
+Vladimir Levin 
+
+Handle: Unknown 
+
+Claim to fame: A graduate of St. Petersburg Tekhnologichesky University, this mathematician allegedly masterminded the Russian hacker gang that tricked Citibank’s computers into spitting out $10 million. Arrested by Interpol at Heathrow Airport in 1995. 
+
+First encountered a computer: Unknown. Accused of using his office computer at AO Saturn, a St. Petersburg, Russia, computer firm, to break into Citibank. 
+
+Unusual tools: Along with a computer, computer games and disks, Russian police confiscated a camcorder, music speakers and a TV set from Levin’s apartment. 
+
+Little-known fact: Levin claimed that one of the lawyers assigned to defend him was actually an FBI agent. 
+
+Current status: Vladimir Levin fought extradition to the United States for two years, but eventually lost his case. He was sentenced to three years in prison and ordered to pay Citibank $240,015 (his share from the heist). Citibank has since begun using the Dynamic Encryption Card, a security system so tight that no other financial institution in the world has it. 
+
+
+Steve Wozniak 
+
+Why Woz? Because he exemplifies the young hacker’s dream. Just out of college, the two Steves (Wozniak and Jobs) set to work designing computer games (for Atari) and building blue boxes (for themselves). Woz builds the Apple I. It has no keyboard, no case, no sound or graphics, but it is a thing of beauty nonetheless. The boys shake hands on April Fools’ Day 1976, and Apple Computer is born. The pride of the Homebrew Computer Club, Wozniak trades in his HP programmable calculator and Jobs sells his VW van to finance production from a Palo Alto garage. 
+Current status: Steve Wozniak continues to do work for Apple. You can learn more about him on his website, http://www.woz.org 
+
+
+Tsutomu Shimomura 
+
+To state the obvious: Shimomura outhacked and outsmarted Kevin Mitnick, the nation’s most infamous cracker/phreaker, in early 1994. After colleagues at the San Diego Supercomputing Center informed Shimomura that someone had stolen hundreds of software programs and files from his work station, the computer security expert worked on a tip to track the thief through the WELL. A labyrinthine telco trail eventually led to an apartment complex in Raleigh, N.C., where FBI agents apprehended Mitnick. (They’ve had less luck tracking down Mitnick’s alleged Israeli accomplice.) But that’s not all: A consultant to the FBI, Air Force and National Security Agency, Shimomura is rumored to have engaged in darkside dabblings himself. As Jon Littman notes, "I’ve always wondered why he wrote that program to eavesdrop on cell phone calls. Somehow it doesn’t sound like an NSA contract." 
+Current status: Tsutomu Shimomura co-wrote Takedown, an account of how he trapped hacker Kevin Mitnick. He still works for San Diego Supercomputer as a research fellow. 
+
+
+Linus Torvalds 
+
+A true hacker in the classic sense, Linus Torvalds was a computer science student at the University of Helsinki when he wrote the operating system Linux (a contraction of "Linus’ Minix") in 1991. The software has proven to be tremendously popular worldwide — and best of all it’s FREE! Torvalds modestly attributes much of Linux’s success to the Net and to Richard Stallman’s GNU: Both have facilitated development of his original kernel by fostering collaboration among software programmers and developers. 
+Current status: Linus Torvalds — one of the most genuinely respected hackers in history — now works for Transmeta, a company that develops software-based microprocessors. He’s married with two daughters. 
+
+
+Eric Steven Raymond 
+
+Eric Steven Raymond is the granddaddy of today’s hackers, a man who revels in living the life in all its geeky glory. According to him, "The world is full of fascinating problems waiting to be solved." 
+Annoyed by the fact that most people misuse the term "hacker," he wrote The Hacker’s Dictionary and How to Be a Hacker. (Raymond says the basic difference is that "hackers build things, crackers break them.") 
+
+Not only is he respected for his astounding skills as a programmer, but Raymond is also valued as a fierce defender of the Open Source Movement, which is based on the premise that programmers should be able to read and modify all software source codes. In this IT paradise, programmers would be able to improve software and fix any potentially lethal bugs. Steve Wozniak would be a god. Bill Gates would be the serpent. 
+
+In addition to programming, Raymond is also a fan of libertarianism, neo-paganism and the right to bear arms. 
+
+
+Ian Murphy 
+
+The year was 1981. The Reagan administration was in its infancy. "Elvira" was setting the Billboard charts on fire. And a young hacker was about to become the first person ever arrested for a computer crime. 
+Eighteen months earlier, Ian Murphy (a.k.a. "Captain Zap") along with three cohorts, hacked into AT&T’s computers and changed their internal clocks. People suddenly received late-night discounts in the afternoon, while others who waited until midnight to use the phone were greeted with hefty bills. For his part in the crime, Murphy was greeted with 1,000 hours of community service and 2 1/2 years probation (considerably less than what fellow hackers would receive today). He also became the inspiration for the movie Sneakers. 
+
+Today Murphy, like other hackers, runs his own security company — IAM Secure Data Systems, Inc. For $5,000 a day plus expenses, Murphy has dressed up as a phone-company employee and cracked a bank’s security system, aided a murder investigation, and conducted studies in airline terrorism. But Murphy’s great love is still hacking into company security systems — with their permission — and helping them guard against potential break-ins. 
+
+
+John Perry Barlow 
+
+John Perry Barlow is a study in contrasts. The man with the WASP-ish name was actually born in Wyoming and educated in a one-room schoolhouse. He was a cattle rancher before he dropped out and became a songwriter for an up-and-coming band called the Grateful Dead. He applied the term "cyberspace" to today’s media, and co-founded the Electronic Frontier Foundation, a nonprofit organization devoted to preserving freedom of speech on the Internet. Barlow is a tough guy to pin down. And that might make him one of the greatest hackers of all. 
+Though Barlow’s Apple PowerBook is hidden beneath Grateful Dead stickers and dancing bears, he’s still quite grounded in the 21st century. This self-described "techno-hippie" now spends his days fighting the "evil conglomerate," which includes Microsoft, AOL and even the Motion Picture Association of America, while pushing his agenda to preserve freedom of expression in cyberspace. Barlow’s greatest hope is that "we will create a civilization in the mind of cyberspace. May it be more humane and fair than your governments have created." In addition, he believes that "there is something inherently liberating about getting on the Internet. There has been demonstrated a cultural infection in Internet use that is more powerful than the infections that others bring to it. And I place a great deal of faith in what’s going to happen in society when more people are online and fewer people are watching television." 
 
 
  
