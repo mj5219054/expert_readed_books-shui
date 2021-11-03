@@ -77,7 +77,7 @@
   <td align="center">
     <a href="#小说类">
       <img src="https://www.0voice.com/uiwebsite/icons/%E5%B0%8F%E8%AF%B4%E7%B1%BB.png" width="120px" height="100px">
-      <骇客先驱p>小说类</p>
+      <p>小说类</p>
     </a>
   </td>
   <td align="center">
