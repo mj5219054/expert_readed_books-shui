@@ -88,7 +88,11 @@ Matrix I最后，尼奥看破幻象，宣告了解放之途。Matrix系统开始
 *    19、 Facebook每6—8周就会举行一次“黑客马拉松”（hackathons），人们用一晚上的时间设计并完成一个项目。扎克伯格说：“我们坚持的理念就是快速发展，突破障碍，做出承诺后就努力去实现。”
 
 *    20、 成为下一次革命的英雄。
- Hackish speech generally features extremely precise diction, careful word choice, a relatively large working vocabulary, and relatively little use of contractions or street slang. Dry humor, irony, puns, and a mildly flippant attitude are highly valued — but an underlying seriousness and intelligence are essential. One should use just enough jargon to communicate precisely and identify oneself as a member of the culture; overuse of jargon or a breathless, excessively gung-ho attitude is considered tacky and the mark of a loser.
+ 
+ 
+ 
+ 
+    Hackish speech generally features extremely precise diction, careful word choice, a relatively large working vocabulary, and relatively little use of contractions or street slang. Dry humor, irony, puns, and a mildly flippant attitude are highly valued — but an underlying seriousness and intelligence are essential. One should use just enough jargon to communicate precisely and identify oneself as a member of the culture; overuse of jargon or a breathless, excessively gung-ho attitude is considered tacky and the mark of a loser.
 
  This speech style is a variety of the precisionist English normally spoken by scientists, design engineers, and academics in technical fields. In contrast with the methods of jargon construction, it is fairly constant throughout hackerdom.
 
